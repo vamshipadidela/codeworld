@@ -1,3 +1,4 @@
+header('Access-Control-Allow-Origin: *');
 [{
 "id":1,
 "first_name":"vamshi"
